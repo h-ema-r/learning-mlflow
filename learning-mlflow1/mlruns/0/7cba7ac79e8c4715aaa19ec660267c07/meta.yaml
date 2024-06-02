@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlops-projet/Learning-mlflow/learning-mlflow1/mlruns/0/7cba7ac79e8c4715aaa19ec660267c07/artifacts
+end_time: 1717321132202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cba7ac79e8c4715aaa19ec660267c07
+run_name: zealous-ox-183
+run_uuid: 7cba7ac79e8c4715aaa19ec660267c07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717321127264
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlops-projet/Learning-mlflow/learning-mlflow1/mlruns/0/d604635f1be048d8b30f8b24bea81c0f/artifacts
+end_time: 1717321102959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d604635f1be048d8b30f8b24bea81c0f
+run_name: upset-crane-582
+run_uuid: d604635f1be048d8b30f8b24bea81c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717321096766
+status: 3
+tags: []
+user_id: user

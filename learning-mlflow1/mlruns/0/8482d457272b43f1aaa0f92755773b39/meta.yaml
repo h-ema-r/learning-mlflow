@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/Desktop/mlops-projet/Learning-mlflow/learning-mlflow1/mlruns/0/8482d457272b43f1aaa0f92755773b39/artifacts
+end_time: 1717321120272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8482d457272b43f1aaa0f92755773b39
+run_name: defiant-donkey-364
+run_uuid: 8482d457272b43f1aaa0f92755773b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717321115324
+status: 3
+tags: []
+user_id: user
