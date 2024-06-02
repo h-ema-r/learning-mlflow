@@ -1,6 +1,6 @@
 # MLflow
 MLflow is an open-source platform designed to manage the end-to-end machine learning (ML) lifecycle. It provides a set of tools to help data scientists and engineers develop, deploy, and monitor machine learning models efficiently.
-MLflow consists of four main components:
+MLflow consists of four main components:<br>
 1.MLflow Tracking<br>
 2. MLflow Projects<br>
 3. MLflow Models<br>
