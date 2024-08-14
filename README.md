@@ -6,6 +6,18 @@ MLflow consists of four main components:<br>
 3. MLflow Models<br>
 4. MLflow Model Registry
 
+## Use Case of MLflow
+
+- **Comparing different models:** Using the mlflow UI we can compare multiple ML models side by 
+    side, along with their metric and parameter settings.
+- **Cyclic Model Deployment:** To push the models reliability to production environment with 
+    the changes in Data, Requiremnt, models'performance.Mlflow helps in tracking the models 
+  effectively with its metadata.
+- **Multiple Dependencies:** Maintaining the dependencies in a large project with model.
+- **Working with large Data Science Team:** To Track the Model metadata by extracting the work 
+   from other team members by creating the queries.
+  
+
 ## MLflow Tracking
 ### How to run ?
 **Creating virtualenv**
