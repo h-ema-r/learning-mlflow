@@ -12,7 +12,7 @@ MLflow consists of four main components:<br>
 **4. MLflow Model Registry:**<br>
     - Store, annotate, discover, and manage models in a central repository.
 
-## Use Case of MLflow
+## Use Cases of MLflow
 
 - **Comparing different models:** Using the mlflow UI we can compare multiple ML models side by 
     side, along with their metric and parameter settings.
